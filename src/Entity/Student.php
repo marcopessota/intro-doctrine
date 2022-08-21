@@ -10,9 +10,7 @@ use Doctrine\ORM\Mapping\Id;
 #[Entity]
 Class Student
 {
-    #[Id]
-    #[GeneratedValue]
-    #[Column]
+    #[Id, GeneratedValue, Column]
     public int $id;
     #[Column]
     public string $name;
