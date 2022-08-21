@@ -8,6 +8,7 @@ Comandos:
 
 php bin/list-students.php
 php bin/insert-student.php name
+php bin/insert-student.php name phone
 php bin/rename-student.php id name
 php bin/delete-student.php id
 
