@@ -33,7 +33,11 @@ Aprendemos a remover registros usando o Entity Manager.
 
 04. Relacionamento OneToMany
 
-TBD
+Reforçamos o conhecimento de mapeamento de entidades;
+Mapeamos nosso primeiro relacionamento entre entidades;
+Fizemos uso desse relacionamento em nosso código PHP;
+Aprendemos a lidar com coleções do Doctrine;
+Conhecemos as operações em cascata para inserir e remover registros.
 
 05. Relacionamento ManyToMany
 
