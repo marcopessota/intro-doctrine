@@ -11,11 +11,6 @@ $entityManager = EntityManagerCreator::createEntityManager();
 $student = new Student($argv[1]);
 $entityManager->persist($student);
 
-if(!empty($argv[2])){
-    $phone = new Phone($argv[2]);
-    $entityManager->persist($phone);
-
-    $student->addPhone($phone);
-} 
+if(!empty($argv[2])) $student->addPhone(new Phone($argv[2]));
 
 $entityManager->flush();
