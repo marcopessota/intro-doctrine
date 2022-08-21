@@ -26,7 +26,9 @@ Inserimos um registro usando o Entity Manager.
 
 03. Finalizando CRUD
 
-TBD
+Aprendemos a fazer consultas e trabalhar com repositórios;
+Entendemos como realizar alterações em registros;
+Aprendemos a remover registros usando o Entity Manager.
 
 04. Relacionamento OneToMany
 
