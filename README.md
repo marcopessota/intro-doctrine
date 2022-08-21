@@ -41,4 +41,6 @@ Conhecemos as operações em cascata para inserir e remover registros.
 
 05. Relacionamento ManyToMany
 
-TBD
+Mapeamos uma nova entidade;
+Aprendemos sobre um novo tipo de relacionamento;
+Vinculamos alunos a cursos.
