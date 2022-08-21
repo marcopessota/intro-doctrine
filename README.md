@@ -10,7 +10,9 @@ Estudos de introdução a ORM com Doctrine da Alura
 
 02. Configuração inicial
 
-TBD
+Criamos nosso primeiro mapeamento de entidade;
+Conhecemos e aprendemos a usar a CLI do Doctrine;
+Inserimos um registro usando o Entity Manager.
 
 03. Finalizando CRUD
 
